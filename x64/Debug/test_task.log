@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\mvide\source\repos\test_task\Source.cpp(13,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Spiral.cpp
+  Создание кода...
+  test_task.vcxproj -> C:\Users\mvide\source\repos\test_task\x64\Debug\test_task.exe
